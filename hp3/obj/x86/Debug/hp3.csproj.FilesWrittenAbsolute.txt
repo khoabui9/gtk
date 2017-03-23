@@ -1,0 +1,16 @@
+/home/alu/Desktop/hada-p3/hp3/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/alu/Desktop/hada-p3/hp3/obj/x86/Debug/hp3.gtk-gui.gui.stetic
+/home/alu/Desktop/hada-p3/hp3/bin/Debug/hp3.exe.mdb
+/home/alu/Desktop/hada-p3/hp3/bin/Debug/hp3.exe
+/home/alu/Desktop/hada-p3/hp3/obj/x86/Debug/hp3.exe
+/home/alu/Desktop/hada-p3/hp3/obj/x86/Debug/hp3.exe.mdb
+/home/alu/Desktop/hada-p3/hp3/bin/Debug/library.dll
+/home/alu/Desktop/hada-p3/hp3/bin/Debug/library.dll.mdb
+/home/alu/Descargas/management-master/hp3/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/alu/Descargas/management-master/hp3/obj/x86/Debug/hp3.gtk-gui.gui.stetic
+/home/alu/Descargas/management-master/hp3/obj/x86/Debug/hp3.exe
+/home/alu/Descargas/management-master/hp3/obj/x86/Debug/hp3.exe.mdb
+/home/alu/Descargas/management-master/hp3/bin/Debug/library.dll
+/home/alu/Descargas/management-master/hp3/bin/Debug/library.dll.mdb
+/home/alu/Descargas/management-master/hp3/bin/Debug/hp3.exe.mdb
+/home/alu/Descargas/management-master/hp3/bin/Debug/hp3.exe

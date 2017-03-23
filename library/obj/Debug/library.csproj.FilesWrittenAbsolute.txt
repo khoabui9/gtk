@@ -1,0 +1,10 @@
+/home/alu/Desktop/hada-p3/library/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/alu/Desktop/hada-p3/library/bin/Debug/library.dll.mdb
+/home/alu/Desktop/hada-p3/library/bin/Debug/library.dll
+/home/alu/Desktop/hada-p3/library/obj/Debug/library.dll
+/home/alu/Desktop/hada-p3/library/obj/Debug/library.dll.mdb
+/home/alu/Descargas/management-master/library/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/alu/Descargas/management-master/library/bin/Debug/library.dll.mdb
+/home/alu/Descargas/management-master/library/bin/Debug/library.dll
+/home/alu/Descargas/management-master/library/obj/Debug/library.dll
+/home/alu/Descargas/management-master/library/obj/Debug/library.dll.mdb

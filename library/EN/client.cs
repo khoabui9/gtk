@@ -12,6 +12,7 @@ namespace EN
 			this.name = name;
 			this.address = address;
 			this.city = city;
+
 		}
 
 		public string name { get; set; }

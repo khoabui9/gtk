@@ -13,6 +13,7 @@ namespace EN
 			this.address = address;
 			this.city = city;
 		}
+
 		public string name { get; set; }
 		public string address { get; set; }
 		public string city { get; set; }

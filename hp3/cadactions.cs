@@ -12,6 +12,7 @@ namespace hadap3
 		CAD.CADProduct cadP = new CAD.CADProduct("data");
 		EN.Client c;
 		EN.Product p;
+
 //		string[] clientName = { "khoa0", "khoa1","khoa2","khoa3","khoa4","khoa5",
 //			"khoa6","khoa7","khoa8","kho9","khoa10","khoa11","khoa12","khoa13","khoa14",
 //			"khoa15","khoa16","khoa17","khoa18","khoa19"

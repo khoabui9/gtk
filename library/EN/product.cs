@@ -1,5 +1,6 @@
 ﻿using System;
 
+
 namespace EN
 {
 	public class Product : ENBase

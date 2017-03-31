@@ -5,7 +5,6 @@ using System.IO;
 using System.Media;
 using EN;
 
-
 namespace CAD
 {
 	public class CADProduct : CAD

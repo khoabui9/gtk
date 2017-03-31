@@ -14,3 +14,4 @@
 /home/alu/Descargas/management-master/hp3/bin/Debug/library.dll.mdb
 /home/alu/Descargas/management-master/hp3/bin/Debug/hp3.exe.mdb
 /home/alu/Descargas/management-master/hp3/bin/Debug/hp3.exe
+

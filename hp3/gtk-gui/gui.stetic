@@ -34,6 +34,7 @@
                     <property name="IsEditable">True</property>
                     <property name="InvisibleChar">●</property>
                   </widget>
+                  
                   <packing>
                     <property name="LeftAttach">1</property>
                     <property name="RightAttach">2</property>

@@ -6,6 +6,7 @@ namespace library
 	{
 		public MyClass ()
 		{
+			
 		}
 	}
 }

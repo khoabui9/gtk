@@ -37,6 +37,7 @@ public partial class MainWindow
 	
 	private global::Gtk.Button button6;
 	
+	
 	private global::Gtk.Button button7;
 	
 	private global::Gtk.Button button8;

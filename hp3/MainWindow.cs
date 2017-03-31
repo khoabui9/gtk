@@ -4,6 +4,7 @@ using Gtk;
 public partial class MainWindow: Gtk.Window
 {
 	hadap3.Cadactions aa;
+	
 	public MainWindow(string dbfn = "") : base (Gtk.WindowType.Toplevel)
 	{
 		createAndPopulateDB("data");

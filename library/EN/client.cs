@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Data;
 
+
 namespace EN
 {
 	public class Client : ENBase
